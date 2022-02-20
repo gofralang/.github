@@ -1,5 +1,5 @@
 # Gofra Programming Language
-## Read more at [gofra-lang/core](https://github.com/gofra-lang/core)
+## Read more at [gofralang/core](https://github.com/gofralang/core)
 
 ## Examples
 ```go
